@@ -110,8 +110,9 @@
 		"publisherId": "b5ab7991-81a8-4557-af54-4cb8e01e85c1",
 		"publisherDisplayName": "twxs",
 		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1657026382653
+		"installedTimestamp": 1663877953030
 	}
 }

@@ -390,9 +390,10 @@
 		"publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
 		"publisherDisplayName": "Jun Han",
 		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
 		"preRelease": false,
-		"installedTimestamp": 1657069683171
+		"installedTimestamp": 1663877739636
 	}
 }

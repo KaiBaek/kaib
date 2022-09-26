@@ -55,8 +55,9 @@
 		"publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
 		"publisherDisplayName": "Microsoft",
 		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1657026382216
+		"installedTimestamp": 1663877945347
 	}
 }
